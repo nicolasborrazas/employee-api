@@ -4,7 +4,7 @@
 # Employee API (In dev)
 
 This repository contains the source code for an Employee API built using ASP.NET Core. The API provides an endpoint to retrieve employee data, with the employee's name and job role returned in JSON format.
-Test URL http://localhost:5025/api/employee
+Test URL (must be running) http://localhost:5025/api/employee
 
 ## Getting Started
 
