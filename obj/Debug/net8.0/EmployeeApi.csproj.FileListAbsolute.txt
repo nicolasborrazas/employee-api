@@ -65,3 +65,4 @@
 /Users/nicolas.borrazas/Desktop/Docs/employee-api/obj/Debug/net8.0/EmployeeApi.pdb
 /Users/nicolas.borrazas/Desktop/Docs/employee-api/obj/Debug/net8.0/EmployeeApi.genruntimeconfig.cache
 /Users/nicolas.borrazas/Desktop/Docs/employee-api/obj/Debug/net8.0/ref/EmployeeApi.dll
+/Users/nicolas.borrazas/Desktop/Docs/employee-api/obj/Debug/net8.0/EmployeeApi.sourcelink.json
