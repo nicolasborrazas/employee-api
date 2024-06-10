@@ -1,0 +1,8 @@
+# Ignore bin file
+bin/
+
+# Ignorar obj file
+obj/
+
+# Ignorar properties file
+Properties/launchSettings.json
