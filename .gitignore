@@ -1,5 +1,5 @@
 # Ignore bin file
-bin/
+bin/Debug/net8.0
 
 # Ignorar obj file
 obj/
